@@ -1,4 +1,5 @@
 import {ReactComponent as Arrow} from "assets/img/arrow.svg";
+import MovieStarts from "components/movieStarts";
 import './styles.css';
 
 function Pagination()
