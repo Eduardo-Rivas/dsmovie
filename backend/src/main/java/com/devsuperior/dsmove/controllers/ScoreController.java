@@ -9,7 +9,7 @@ import com.devsuperior.dsmove.dto.MovieDTO;
 import com.devsuperior.dsmove.dto.ScoreDTO;
 import com.devsuperior.dsmove.services.ScoreService;
 
-@RestController
+@RestController 
 @RequestMapping(value = "/scores")
 public class ScoreController {
 
