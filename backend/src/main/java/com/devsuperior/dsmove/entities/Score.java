@@ -20,7 +20,7 @@ public class Score {
 	}
 	
 	//--Referencia para Movie--//
-	private void setMovie(Movie movie)
+	public void setMovie(Movie movie)
 	{
 		id.setMovie(movie);
 	}
